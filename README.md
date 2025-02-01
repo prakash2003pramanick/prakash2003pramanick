@@ -1,5 +1,32 @@
-# 💫 About Me:
-🚀 About Me<br>I'm Prakash, a backend developer and machine learning enthusiast, passionate about scalable systems, automation, and AI-driven solutions. I love solving complex problems with clean, efficient code.<br>👨‍💻 What I Do:<br>Backend Development: I work with Node.js, building scalable APIs and backend systems.<br>Machine Learning: I'm exploring GenAI techniques for object detection and ADAS systems using CARLA simulations.<br>Cloud & DevOps: I manage Dockerized applications using Portainer and have deployed Node.js apps on DigitalOcean.<br>Tech Lead: As the Web Lead at Cyber Vault Society, I contribute to building secure and efficient web solutions.<br>Data Science: Working on a travel package recommendation system, forecasting travel trends using ML models.<br>🔥 Current Projects:<br>Email-to-JSON Automation: Developing a system where organizations define their custom JSON structure, and emails get auto-mapped accordingly(UIPath).<br>Travel Package System: Helping agents create, edit, and manage AI Generated travel packages with targeted campaigns and ads.<br>🛠️ Tech Stack:<br>Languages: Node.js, Python<br>Databases: MongoDB, PostgreSQL<br>Cloud & DevOps: Docker, DigitalOcean, CI/CD<br>ML & AI: GenAI, PyTorch, CARLA, OpenCV<br>🌱 Always Exploring:<br>Vector Search & Semantic Search<br>Scalable Microservices<br>Advanced Cloud Architectures
+# 💫 About Me  
+
+🚀 **Hey there! I'm Prakash**—a backend developer & ML enthusiast, passionate about **scalable systems, automation, and AI-driven solutions**.  
+I love solving complex problems with clean, efficient code.  
+
+## 👨‍💻 What I Do  
+
+- 🔹 **Backend Development** → Scalable **Node.js APIs**, microservices, and high-performance systems.  
+- 🤖 **Machine Learning** → Exploring **GenAI** for **object detection & ADAS** using **CARLA simulations**.  
+- ☁️ **Cloud & DevOps** → Managing **Dockerized apps** via **Portainer** & deploying **Node.js on DigitalOcean**.  
+- 🔐 **Tech Lead** → Web Lead at **Cyber Vault Society**, building secure & efficient web solutions.  
+- 🏝 **Data Science** → Building **AI-driven travel package recommendations** & forecasting **travel trends**.  
+
+## 🔥 Current Projects  
+
+- ✉️ **Email-to-JSON Automation** → Auto-mapping emails into **custom JSON formats** defined by organizations.  
+- 🌍 **AI-Powered Travel System** → Helping agents **generate, edit & manage** smart travel packages with targeted ads.  
+
+## 🛠️ Tech Stack  
+
+- **Languages** → 🟢 Node.js | 🐍 Python  
+- **Databases** → 🍃 MongoDB | 🐘 PostgreSQL  
+- **Cloud & DevOps** → 🐳 Docker | 🌐 DigitalOcean | 🔄 CI/CD  
+- **ML & AI** → 🤖 GenAI | 🔥 PyTorch | 🚗 CARLA | 👁 OpenCV  
+
+## 🌱 Always Exploring  
+
+💡 **Vector & Semantic Search** | 🏗 **Scalable Microservices** | ☁️ **Advanced Cloud Architectures**  
+
 
 
 ## 🌐 Socials:
